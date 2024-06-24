@@ -1,4 +1,4 @@
-# Basic Calculator
+# [Basic Calculator](https://sid0702.github.io/Calculator-New/)
 
 ![Calculator Screenshot](https://github.com/Sid0702/Calculator-New/blob/main/Screenshot%202024-06-24%20125945.png?raw=true)
 
